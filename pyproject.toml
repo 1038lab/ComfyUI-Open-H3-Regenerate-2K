@@ -1,7 +1,7 @@
 [project]
 name = "ComfyUI-Open-H3-Regenerate-2K"
 description = "High-resolution 2K video regeneration and refinement nodes for MiniMax H3 in ComfyUI using Open-H3-Regenerate-2K LoRA, Sharp AdaLN curve branches, and audio-locked latent refinement."
-version = "0.0.1"
+version = "1.0.0"
 license = {file = "LICENSE"}
 
 dependencies = [
