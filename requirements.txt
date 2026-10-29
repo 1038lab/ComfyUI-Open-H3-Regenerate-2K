@@ -1,0 +1,4 @@
+# Minimal required dependencies
+huggingface_hub
+safetensors
+
